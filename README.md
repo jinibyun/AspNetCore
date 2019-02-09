@@ -1,2 +1,1 @@
-# AspNetCore
-Wrap-up Asp.net core with site: https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-2.1&amp;tabs=windows
+ref: https://www.udemy.com/hands-on-asp-net-core-2/learn/v4/t/lecture/8473008?start=75
